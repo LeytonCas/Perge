@@ -13,7 +13,7 @@ Estaremos haciendo muchos cambios aquí.
 
 La pequetria nueva se subirá aquí, despues de un tiempo pasará al repositorio Palonio para ser usado en la distribución del proyecto (OpenSUSE 13.2).
 
-En la pagina web (www.proyectoarpolonio.wordpress.com) podrás encontrar mas informacion sobre el uso de esta herramiento (Repositorio Perge) y algunos datos interesantes del proyecto. Aun estamos iniciando, así que, pedimos un poco de paciencia.
+En la pagina web (www.proyectoapolonio.wordpress.com) podrás encontrar mas informacion sobre el uso de esta herramiento (Repositorio Perge) y algunos datos interesantes del proyecto. Aun estamos iniciando, así que, pedimos un poco de paciencia.
 
 Cordialmente
 
